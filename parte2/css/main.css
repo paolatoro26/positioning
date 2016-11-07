@@ -1,0 +1,11 @@
+
+div{width: 200px;
+height: 200px;
+position: relative;
+}
+body{margin: 0;
+padding: 0}
+.a{background-color: #ee3e64;
+left: 100px}
+.b{background-color: #44accf}
+.c{background-color: #b7d84b}
